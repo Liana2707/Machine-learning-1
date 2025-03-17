@@ -1,4 +1,4 @@
-# Machine-learning-1
+# Machine-learning
 Machine learning, course 1, AI Masters  
 ## Машинное обучение: Домашние работы и лекции AI Masters
 
